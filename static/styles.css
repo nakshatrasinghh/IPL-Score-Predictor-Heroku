@@ -14,7 +14,7 @@ body{
 /* Website Title */
 .container{
 	color: #000000;
-    padding: 20px;
+    	padding: 20px;
 	display: block;
 	text-align: center;
 }
@@ -33,7 +33,7 @@ body{
 .description p{
     font-style: bold;
     font-size: 22px;
-	font-weight: 200;
+    font-weight: 200;
     margin: 0;
 }
 
