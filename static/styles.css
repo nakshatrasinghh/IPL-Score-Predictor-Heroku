@@ -26,16 +26,11 @@ body{
 .heading_first{
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 100;
-}
-
-.heading_second{
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 800;
-	font-style: italic;
+	font-style: bold;
 }
 
 .description p{
-    font-style: italic;
+    font-style: bold;
     font-size: 12px;
 	font-weight: 100;
     margin: 0;
@@ -195,7 +190,7 @@ body{
 }
 
 .myButton:hover{
-	background-color: #E9E9E9;
+	background-color: #9E9E9E;
 	color: #000000;
 	box-shadow: inset 7px 3px 16px -10px rgba(0,0,0,0.75);
 }
@@ -207,7 +202,7 @@ body{
 
 /* Footer */
 .footer{
-	background-color: #E9E9E9;
+	background-color: #9E9E9E;
 	color: #000000;
 	padding: 12px;
     text-align: center;
@@ -224,8 +219,8 @@ body{
 
 .footer-description{
 	margin: 0;
-	font-size: 12px;
-	font-weight: 100;
+	font-size: 14px;
+	font-weight: 110;
 }
 
 /* Result */
