@@ -1,5 +1,7 @@
 # IPL First Innings Score Predictor - Deployment
 
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+
 Made with ❤️ by Nakshatra Singh.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nakshatrasinghh/).
