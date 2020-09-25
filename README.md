@@ -10,6 +10,8 @@ If you want to build something together, feel free to email me at - nakshatradsu
 
 If you forked this repository, you can link it to your heroku app afterwards.
 
+Please do ⭐ the repository, if it helped you in anyway.
+
 **Summary**:
 
 The model was build by using the following [Dataset](https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset). 
