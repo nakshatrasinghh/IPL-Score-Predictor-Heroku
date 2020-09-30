@@ -26,7 +26,7 @@ Deep Neural Networks, XGBoost and Random Forest was used to train the model. Ran
 
 [![Deploy](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)](https://ipl-heroku-app.herokuapp.com/)
 
-Click on the icon above to run the single page application in your browser directly. Just pass the required field values and the model will predict the score :)
+Click on the icon above to run the single page application in your browser directly. Just pass the required field values and the model will predict the score 🏏.
 
 # Message Me
 Feel free to click on the icon to personally message me on Whatsapp if you have any doubts :)
