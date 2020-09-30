@@ -203,8 +203,9 @@ body{
 
 /* Footer */
 .footer{
-	background-color: #c4c447;
-	color: #ff6700;
+  font-size: 21px;
+	background: linear-gradient(45deg, #ffffff, #ffe6e6, #f9f9f9, #eeeeee, #e0e4e1, #ffd9b3);
+	background-size: 500% 500%;
 	padding: 12px;
     text-align: center;
 }
@@ -220,8 +221,8 @@ body{
 
 .footer-description{
 	margin: 0;
-	font-size: 14px;
-	font-weight: 110;
+	font-size: 17px;
+  color: #000000;
 }
 
 /* Result */
@@ -239,12 +240,4 @@ body{
 
 .safe{
     color: green;
-}
-
-.gif{
-	width: 25%;
-}
-
-.gif1{
-	width: 40%;
 }
